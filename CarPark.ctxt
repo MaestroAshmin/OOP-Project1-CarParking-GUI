@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CarPark
+comment1.params=
+comment1.target=CarPark\ getInstance()
+comment10.params=regNumber
+comment10.target=boolean\ removeCarByRegNumber(java.lang.String)
+comment2.params=
+comment2.target=CarPark()
+comment3.params=
+comment3.target=int\ getTotalStaffSlot()
+comment4.params=
+comment4.target=int\ getTotalVisitorSlot()
+comment5.params=totalStaffSlot\ totalVisitorSlot
+comment5.target=void\ setTotalSlots(int,\ int)
+comment6.params=toWhom
+comment6.target=boolean\ isFull(java.lang.String)
+comment7.params=identifier
+comment7.target=java.lang.String\ deleteParkingSlot(java.lang.String)
+comment8.params=registrationNumber
+comment8.target=boolean\ unparkCar(java.lang.String)
+comment9.params=
+comment9.target=java.util.List\ getParkedCars()
+numComments=11
